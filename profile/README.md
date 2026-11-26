@@ -29,7 +29,7 @@
 - **열쇠 없이 손님으로 바로** 씁니다(같은 인터넷 주소에서 하루 50번·1분에 6번, 요청 하나 6MB). 더 많이 쓰거나 글자 인식·PDF·쪽 그림이 필요하면 열쇠를 받습니다: `onmunseo.key [at] gmail.com`(제목에 「On 문서 열쇠 신청」).
 - 공개 문서와 본인 문서만 넣어 주세요. 기관 내부 문서는 올리지 마세요. 보낸 문서는 서버 메모리에서만 다루고 처리 뒤 버립니다.
 - 질문·고장 신고는 [이슈](https://github.com/on-munseo/on-munseo.github.io/issues)에 남겨 주세요. [이용약관](https://onmunseo.kr/terms) · [개인정보 처리방침](https://onmunseo.kr/privacy)
-- 만든 사람: [napurrin](https://github.com/napurrin) — 혼자 만들고 고칩니다.
+- 만든 사람: [napurrin](https://github.com/napurrin) — 코코에게 배우면서 만들고 고칩니다.
 
 ## English
 
@@ -52,4 +52,4 @@ On 문서 (On Document) is a set of tools for Korean HWP/HWPX, PDF and Office do
 - **Works without a key** as a guest (50 calls a day and 6 a minute per internet address, 6 MB per request). For more, or for text recognition, PDF output and page images, request a key at `onmunseo.key [at] gmail.com`.
 - Send only public documents or your own. Documents are handled in server memory and discarded after processing.
 - Questions and bug reports: [issues](https://github.com/on-munseo/on-munseo.github.io/issues). [Terms of use](https://onmunseo.kr/terms) · [Privacy policy](https://onmunseo.kr/privacy) (Korean).
-- Made by [napurrin](https://github.com/napurrin), who builds and maintains it alone.
+- Made by [napurrin](https://github.com/napurrin), who builds and maintains it while learning from Coco.
